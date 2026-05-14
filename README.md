@@ -1,6 +1,6 @@
 # MotoMetar
 
-MotoMetar je sustav koji simulira rad spirometra upotrebom potenciometra te sam proces mjerenja prevara u igru radi motivacije korisnika.
+MotoMetar je sustav koji simulira rad spirometra upotrebom potenciometra te sam proces mjerenja pretvara u igru radi motivacije korisnika.
 Snaga puhanja simulira se potenciometrom te ona regulira vožnju motora. Cilj je motor održavati na zadnjem kotaču.
 
 Igra funkcionira na način da u početku motor stoji. 
