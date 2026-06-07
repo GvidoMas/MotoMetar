@@ -34,7 +34,8 @@ Wokwi - simulator korišten za realizaciju projekta
 
 
 # Članovi tima 
-Hrvoje Sić\n
+Hrvoje Sić
+
 Gvido Maskalan
 
 # Kontribucije
