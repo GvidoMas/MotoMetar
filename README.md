@@ -51,3 +51,7 @@ Gvido Maskalan
  - Vizualizacija protoka kroz igru
  - Detekcija uspjeha i neuspjeha
  - Pohrana rezultata
+
+# Link na Wokwi projekt
+
+https://wokwi.com/projects/466205347233347585
