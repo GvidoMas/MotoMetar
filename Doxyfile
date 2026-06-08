@@ -9,11 +9,12 @@ GENERATE_LATEX         = NO
 
 # Source files to document
 INPUT                  = wokwi
-FILE_PATTERNS          = *.c *.h *.ino *.cpp
+FILE_PATTERNS          = *.c *.h *.cpp *.hpp *.ino
 RECURSIVE              = YES
 EXTENSION_MAPPING = ino=C++
 
 # Tell Doxygen to document everything
+OPTIMIZE_OUTPUT_FOR_C = NO
 EXTRACT_ALL            = YES
 EXTRACT_PRIVATE        = YES
 EXTRACT_STATIC         = YES
