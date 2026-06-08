@@ -9,7 +9,7 @@ GENERATE_LATEX         = NO
 
 # Source files to document
 INPUT                  = wokwi
-FILE_PATTERNS          = *.c *.h *.ino
+FILE_PATTERNS          = *.c *.h *.ino *.cpp
 RECURSIVE              = YES
 EXTENSION_MAPPING = ino=C++
 
